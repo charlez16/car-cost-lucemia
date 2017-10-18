@@ -1,7 +1,7 @@
 # car-cost
 ## Authors
-1. foo
-2. bar
+1. Charles
+2. Enes
 ## Problem statement for the car-cost program:
 Calculate the total cost (base cost plus add-on items like tax and license) 
 of a used car that might fit into the budget of a typical 18-year-old student. 
@@ -30,5 +30,7 @@ Store the payment information in an appropriately named variable.
 1.  Capture an image of your program execution for a $3000 used car. Alt-PrintScreen captures the active window.
 1.  Name the image "car-cost.jpg" and add it to this repository.
 ## Algorithm for your Budget program:
-* Write an algorithm for the car-cost program below. 
-* When you code the program, be sure to include elements of your algorithm as program comments.
+1. create several inputs
+2. assign inputs to variables
+3. use variables to calculate the monthly rate
+4. output the calculated rate 
