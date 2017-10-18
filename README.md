@@ -24,10 +24,10 @@ and store the result in an appropriately named variable.
 1.	Calculate the monthly payment with an assumed 9% interest rate compounded monthly for 3 years. 
 Use the equation described on Wikipedia (https://en.wikipedia.org/wiki/Mortgage_calculator#Monthly_payment_formula).
 Store the payment information in an appropriately named variable. 
-1.	Print out the payment as an integer number.
-1. Run your program, and correct any errors you find. 
+1.	Print out the monthly payment as an integer number.
+1. Run your program and correct any errors you find. 
 1. Be sure none of the words in your print statements run together. 
-1.  Capture an image of your program execution for a $3000 used car. Alt-PrintSc captures the active window.
+1.  Capture an image of your program execution for a $3000 used car. Alt-PrintScreen captures the active window.
 1.  Name the image "car-cost.jpg" and add it to this repository.
 ## Algorithm for your Budget program:
 * Write an algorithm for the car-cost program below. 
